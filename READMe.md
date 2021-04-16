@@ -23,9 +23,7 @@ This is a new autoclicker that we would like to create and improve with our gith
 
  * [Click here to download](https://sourceforge.net/projects/autoclicker-armoman/)
 
-#### Terms of use 
 
- If you use it in a game and get banned we are not responsible.
 
 #### NEWS
 
@@ -33,5 +31,13 @@ This is a new autoclicker that we would like to create and improve with our gith
  - ...
  - ...
 
+
+
 #### App pictures
-<img src="/mouse.png" width="30"> <img src="/mouse.png" width="30"> <img src="/mouse.png" width="30"> 
+ <img src="/mouse.png" width="30"> <img src="/mouse.png" width="30"> <img src="/mouse.png" width="30"> 
+
+
+
+#### Terms of use 
+
+ If you use it in a game and get banned we are not responsible.
