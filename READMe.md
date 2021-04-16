@@ -34,7 +34,7 @@ This is a new autoclicker that we would like to create and improve with our gith
 
 
 #### App pictures
- <img src="/pictures/pic1.png" height="70"> <img src="/pictures/pic2.png" height="70"> <img src="/pictures/pic3.png" height="70"> <img src="/pictures/pic4.png" height="70"> 
+ <img src="/pictures/pic1.png" height="300"> <img src="/pictures/pic2.png" height="300"> <img src="/pictures/pic3.png" height="300"> <img src="/pictures/pic4.png" height="300"> 
 
 
 
