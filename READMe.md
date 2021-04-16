@@ -18,7 +18,7 @@ This is a new autoclicker that we would like to create and improve with our gith
 
 
 
-### Download EXE file 
+### Download the EXE file 
 
 *[Click here to download](https://sourceforge.net/projects/autoclicker-armoman/)
 
