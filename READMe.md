@@ -1,4 +1,4 @@
-#  <img src="/mouse.png" width="30"> AutoClicker ArmoMan
+#  <img src="/pictures/mouse.png" width="30"> AutoClicker ArmoMan
 
 
 This is a new autoclicker that we would like to create and improve with our github and YouTube community. 
@@ -34,7 +34,7 @@ This is a new autoclicker that we would like to create and improve with our gith
 
 
 #### App pictures
- <img src="/mouse.png" width="30"> <img src="/mouse.png" width="30"> <img src="/mouse.png" width="30"> 
+ <img src="/pictures/pic1.png" width="30"> <img src="/pictures/pic2.png" width="30"> <img src="/pictures/pic3.png" width="30"> <img src="/pictures/pic4.png" width="30"> 
 
 
 
