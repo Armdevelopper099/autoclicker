@@ -32,3 +32,6 @@ This is a new autoclicker that we would like to create and improve with our gith
  - We fixed a bug 2021-04-16
  - ...
  - ...
+
+#### App pictures
+<img src="/mouse.png" width="30"> <img src="/mouse.png" width="30"> <img src="/mouse.png" width="30"> 
