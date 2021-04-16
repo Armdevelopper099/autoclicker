@@ -1,4 +1,5 @@
-# AutoClicker ArmoMan
+# AutoClicker ArmoMan    <img src="/mouse.png" width="50">
+<img src="/mouse.png" width="50">
 
 This is a new autoclicker that we would like to create and improve with our github and YouTube community. 
 
