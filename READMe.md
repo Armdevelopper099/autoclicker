@@ -2,7 +2,7 @@
 
 This is a new autoclicker that we would like to create and improve with our github and YouTube community. 
 
- *It is FREE
+ -It is FREE
  *Customizable
  *Easy to use
  *Virus Free
