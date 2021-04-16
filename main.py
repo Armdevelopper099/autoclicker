@@ -26,7 +26,7 @@ app.configure(background="black")
 
 ##############################################################################################################
 #about click text
-txtspeed = Label (app, text="Write the speed of clicks.  \nIf it is for example 10, it will do one  \nclick every 10 sec. If you want higher\n Click per second you can write 0.01\nor lower (ex:0.00002):", bg="black", fg="white", font="none 12 bold")
+txtspeed = Label (app, text="Write the speed of clicks.  \nIf it is for example 10, it will do one  \n click every 10 sec. If you want higher\n Click per second you can write 0.01\nor lower (ex:0.00002):", bg="black", fg="white", font="none 12 bold")
 txtspeed.pack()
 
 clickinput = Entry(app, width = 30)
