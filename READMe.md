@@ -24,4 +24,8 @@ This is a new autoclicker that we would like to create and improve with our gith
 
 #### Terms of use 
 
-If you use it in a game and get banned we are not responsible.
+ If you use it in a game and get banned we are not responsible.
+
+#### NEWS
+
+ - We fixed a bug 2021-04-16
