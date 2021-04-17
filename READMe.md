@@ -38,6 +38,16 @@ This is a new autoclicker that we would like to create and improve with our gith
 
 
 
+#### Packages to install
+
+ * Tkinter:        pip install tk
+ * Pydirectinput:  pip install pydirectinput
+ * Time:           normally comes with python or pip install time 
+ * Keyboard:       pip install keyboard
+ * Threading:      comes with python 
+
+
+
 #### Terms of use 
 
  If you use it in a game and get banned we are not responsible.
